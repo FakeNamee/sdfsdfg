@@ -1,0 +1,15 @@
+E:\Учеба\SiSharps\Project001\bin\Debug\net6.0\Project001.exe
+E:\Учеба\SiSharps\Project001\bin\Debug\net6.0\Project001.deps.json
+E:\Учеба\SiSharps\Project001\bin\Debug\net6.0\Project001.runtimeconfig.json
+E:\Учеба\SiSharps\Project001\bin\Debug\net6.0\Project001.dll
+E:\Учеба\SiSharps\Project001\bin\Debug\net6.0\Project001.pdb
+E:\Учеба\SiSharps\Project001\obj\Debug\net6.0\Project001.csproj.AssemblyReference.cache
+E:\Учеба\SiSharps\Project001\obj\Debug\net6.0\Project001.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учеба\SiSharps\Project001\obj\Debug\net6.0\Project001.AssemblyInfoInputs.cache
+E:\Учеба\SiSharps\Project001\obj\Debug\net6.0\Project001.AssemblyInfo.cs
+E:\Учеба\SiSharps\Project001\obj\Debug\net6.0\Project001.csproj.CoreCompileInputs.cache
+E:\Учеба\SiSharps\Project001\obj\Debug\net6.0\Project001.dll
+E:\Учеба\SiSharps\Project001\obj\Debug\net6.0\refint\Project001.dll
+E:\Учеба\SiSharps\Project001\obj\Debug\net6.0\Project001.pdb
+E:\Учеба\SiSharps\Project001\obj\Debug\net6.0\Project001.genruntimeconfig.cache
+E:\Учеба\SiSharps\Project001\obj\Debug\net6.0\ref\Project001.dll
